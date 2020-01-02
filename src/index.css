@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.chess-container {
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+}
+
+.center-children {
+  text-align: center;
+}
